@@ -1,0 +1,6 @@
+6.File2 created
+	In Line 5
+		-git pull orig newbranch
+		-git add . (Added all linew written online i.e line 5)
+		-git commit -m "Commited newbranch file after pull"
+			commited
