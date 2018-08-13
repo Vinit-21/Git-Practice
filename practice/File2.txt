@@ -4,3 +4,5 @@
 		-git add . (Added all linew written online i.e line 5)
 		-git commit -m "Commited newbranch file after pull"
 			commited
+	Now I will merge the pull request send by newbranch to master on github (online)
+	And then try to rebase 
