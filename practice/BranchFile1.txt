@@ -1,0 +1,11 @@
+2. Hi This is new branch file.So far local.
+
+
+4. Before this the new line added online in File1.txt fetched from github and then merged
+	-git fetch orig newbranch
+		(newbranch --> branchname)
+	-git merge orign/newbranch
+ 
+Added this line offline and then pushed to newbranch.Also added numbers to line in sequential fashion.
+ 
+5. Now I will pull the newbranch and try to rebase with master(local). [Line Added Online].

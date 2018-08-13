@@ -1,2 +1,2 @@
-I am learning git
-I wrote this line online after pushing from git bash.
+1.I am learning git
+3.I wrote this line online after pushing from git bash.
