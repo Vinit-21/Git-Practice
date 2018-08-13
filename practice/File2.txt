@@ -6,3 +6,9 @@
 			commited
 	Now I will merge the pull request send by newbranch to master on github (online)
 	And then try to rebase 
+
+7.After accepting pull reuqest from newbranch,
+	-git pull orig master
+	-git commit -m "First Accepted PR from newbranch and then git pull"
+	-git rebase orig/master
+Here i End this by pushing after writing 7th step offline
